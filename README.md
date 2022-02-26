@@ -8,3 +8,4 @@ Please to meet you.
 
 Thank you for watching my page.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
