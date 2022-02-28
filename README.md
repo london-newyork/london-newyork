@@ -11,5 +11,6 @@ Now I'm forcusing on studying Next.js/React.js/TypeScript and so on.
 
 ## Here is My Apps URL. FYI.
 
-- Todo　List　on Team development　
+Todo List on Team development
+
 https://todo-team-2-omega.vercel.app/
