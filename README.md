@@ -1,4 +1,4 @@
-Hey,How are you doing? 
+Good day!
 
 Thank you for watching my page ☺️
 
