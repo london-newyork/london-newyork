@@ -1,4 +1,4 @@
-Good day.
+Hi there!
 
 Thank you for watching my page ☺️
 
