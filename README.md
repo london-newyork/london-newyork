@@ -4,7 +4,7 @@ Thank you for watching my page ☺️
 
 I'm Y.I from Japan. 
 
-Now I'm forcusing on studying Next.js/React.js/TypeScript and so on.
+Now, To be a Front-end developer or Full-stack developer,I'm forcusing on studying Next.js/React.js/TypeScript/Node.js and so on.
 
 If you like it, would you contact me?
 
