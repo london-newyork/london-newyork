@@ -12,6 +12,8 @@ If you like it, would you contact me?
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=london-newyork&show_icons=true&theme=swift)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 ## Here is My Latest Apps URL. FYI.
 
 
