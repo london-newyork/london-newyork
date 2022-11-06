@@ -10,7 +10,7 @@ If you like it, would you contact me?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=london-newyork)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 ## Here is My Latest Apps URL. FYI.
 
