@@ -8,7 +8,7 @@ Now, To be a Front-end developer or Full-stack developer, I'm forcusing on study
 
 If you like it, would you contact me?
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=london-newyork)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=london-newyork)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=london-newyork&count_private=true)
