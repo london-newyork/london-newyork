@@ -10,10 +10,3 @@ If you like it, would you contact me?
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=london-newyork&count_private=true)
-
-## Here is My Latest Apps URL. FYI.
-
-
-- Todo List on Team development
-
-https://todo-team-2-omega.vercel.app/
